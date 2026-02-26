@@ -54,4 +54,4 @@ Currently improving my skills in game systems and clean architecture.
 ---
 
 ## Contact
-Email: yourmail@gmail.com
+Email: Ledaithanh.2210@gmail.com
