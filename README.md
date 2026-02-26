@@ -1,66 +1,100 @@
-<h1 align="center">🎮 Lê Đại Thành</h1>
-<h3 align="center">Unity Game Developer</h3>
+<h1 align="center">🎮 TGin-205</h1>
+<h3 align="center">Unity Game Developer | C# Programmer</h3>
+
+<p align="center">
+  <img src="cy"/>
+  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/Focus-Game%20Development-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
+
 🎓 IT Student passionate about Game Development  
-🎮 Building 2D & 3D games with Unity  
-🧠 Strong OOP mindset and clean code practices  
+🎮 Specialized in building 2D & 3D games with Unity  
+🧩 Strong OOP mindset and system design thinking  
+🔥 Goal: Become Professional Game Developer  
 
 ---
 
 ## 🛠 Tech Stack
-- 🎮 Unity
-- 💻 C#
-- 🧠 Object-Oriented Programming
-- 🎨 Game UI/UX
-- 🤖 Basic Game AI
-- 🔧 Git & GitHub
+
+💻 **Programming**
+- C#
+- Object-Oriented Programming
+- Data Structures
+
+🎮 **Game Development**
+- Unity 2D / 3D
+- Physics System
+- Collision Detection
+- Enemy AI
+- State Machine
+- Object Pooling
+
+🔧 **Tools**
+- Git & GitHub
+- Visual Studio
+- Blender (basic)
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🟢 Jelly Jump (2D Platformer Game)
-A fast-paced 2D platformer where players control a jelly character jumping across platforms.
+### 🟢 Jelly Jump – 2D Platformer
+Fast-paced platformer game with smooth physics movement.
 
 ✨ Features:
-- Smooth movement & physics
+- Player jump mechanics
 - Collision detection
 - Score system
 - Enemy AI behavior
-- Increasing difficulty
+- Progressive difficulty scaling
 
-🔗 Source Code: https://github.com/YOUR_USERNAME/jelly-jump
+🔗 Source: https://github.com/TGin-205/jelly-jump
 
 ---
 
-### 🔴 Survival Arena (Top-down 2D Game)
+### 🔴 Survival Arena – Top-down Shooter
 Wave-based survival game.
 
 ✨ Features:
 - Enemy spawn system
 - Health & damage system
-- Weapon upgrade mechanic
-- Game over & restart system
+- Weapon upgrades
+- Game over & restart logic
 
-🔗 Source Code: https://github.com/YOUR_USERNAME/survival-arena
-
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+🔗 Source: https://github.com/TGin-205/survival-arena
 
 ---
 
-## 🎮 Currently Learning
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TGin-205&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGin-205&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+
 - Multiplayer (Photon / Mirror)
-- 3D Game Optimization
-- Design Patterns in Game Development
+- Game Optimization
+- Design Patterns in Game Architecture
+- Advanced AI Behavior
 
 ---
 
 ## 📫 Contact
-- Email: Ledaithanh.2210@gmail.com
-- Facebook: [(Lê Đại Thành)](https://www.facebook.com/dev.rum.205)
+
+📧 Email: yourmail@gmail.com  
+🎮 itch.io: (add later)  
+💼 Facebook: [(Lê Đại Thành)](https://www.facebook.com/dev.rum.205)
+
+---
+
+<p align="center">
+  ⚡ "Games are not just code. They are experiences."
+</p>
