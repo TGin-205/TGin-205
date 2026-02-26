@@ -2,7 +2,7 @@
 <h3 align="center">Unity Game Developer | C# Programmer</h3>
 
 <p align="center">
-  <img src="cy"/>
+ <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=c-sharp"/>
   <img src="https://img.shields.io/badge/Focus-Game%20Development-blue?style=for-the-badge"/>
 </p>
