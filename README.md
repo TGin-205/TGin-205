@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Thanh Le Dai</h1>
+<h1 align="center">🎮 Lê Đại Thành</h1>
 <h3 align="center">Unity Game Developer</h3>
 
 ---
@@ -49,7 +49,7 @@ Wave-based survival game.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
@@ -62,5 +62,5 @@ Wave-based survival game.
 ---
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
-- Facebook: [(add later)](https://www.facebook.com/dev.rum.205)
+- Email: Ledaithanh.2210@gmail.com
+- Facebook: [(Lê Đại Thành)](https://www.facebook.com/dev.rum.205)
