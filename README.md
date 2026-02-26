@@ -1,99 +1,101 @@
-<h1 align="center">🎮 TGin-205</h1>
-<h3 align="center">Unity Game Developer | C# Programmer</h3>
+<h1 align="center">💀 TGin-205</h1>
+<h3 align="center">Dark Game Developer | Unity Engineer</h3>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
-  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/Focus-Game%20Development-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engine-Unity-111111?style=for-the-badge&logo=unity"/>
+  <img src="https://img.shields.io/badge/Code-C%23-222222?style=for-the-badge&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/Mode-Dark-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🩸 Who Am I
 
-🎓 IT Student passionate about Game Development  
-🎮 Specialized in building 2D & 3D games with Unity  
-🧩 Strong OOP mindset and system design thinking  
-🔥 Goal: Become Professional Game Developer  
+🎮 Game Developer in training  
+🧠 Obsessed with mechanics, systems & clean architecture  
+⚡ Building immersive gameplay experiences  
+🔥 Focused on mastering Unity & C#
+
+> “A game is not played. It is survived.”
 
 ---
 
-## 🛠 Tech Stack
+## ⚔ Core Skills
 
-💻 **Programming**
-- C#
-- Object-Oriented Programming
-- Data Structures
-
-🎮 **Game Development**
-- Unity 2D / 3D
-- Physics System
-- Collision Detection
-- Enemy AI
-- State Machine
+### 🎮 Game Systems
+- Player Controller Architecture
+- Enemy AI (State Machine)
 - Object Pooling
+- Physics & Collision
+- Damage & Health Systems
+- Wave Spawn Logic
 
-🔧 **Tools**
-- Git & GitHub
+### 💻 Programming
+- C#
+- OOP Design
+- Data Structures
+- Clean Code Principles
+
+### 🛠 Tools
+- Unity Engine
+- Git / GitHub
 - Visual Studio
-- Blender (basic)
+- Basic Blender
 
 ---
 
-## 🎯 Featured Projects
+## 🧟 Featured Projects
 
-### 🟢 Jelly Jump – 2D Platformer
-Fast-paced platformer game with smooth physics movement.
+### 🟢 Jelly Jump – 2D Survival Platformer
+A fast-paced platform game where survival depends on timing and precision.
 
-✨ Features:
-- Player jump mechanics
-- Collision detection
-- Score system
-- Enemy AI behavior
-- Progressive difficulty scaling
+✔ Smooth physics movement  
+✔ Collision detection  
+✔ Scoring system  
+✔ Enemy patrol AI  
+✔ Increasing difficulty  
 
-🔗 Source: https://github.com/TGin-205/jelly-jump
-
----
-
-### 🔴 Survival Arena – Top-down Shooter
-Wave-based survival game.
-
-✨ Features:
-- Enemy spawn system
-- Health & damage system
-- Weapon upgrades
-- Game over & restart logic
-
-🔗 Source: https://github.com/TGin-205/survival-arena
+🔗 https://github.com/TGin-205/jelly-jump
 
 ---
 
-## 📊 GitHub Stats
+### 🔴 Survival Arena – Dark Top-down Shooter
+Endless waves. No mercy.
+
+✔ Enemy spawn system  
+✔ HP & damage calculation  
+✔ Weapon upgrades  
+✔ Restart & state management  
+
+🔗 https://github.com/TGin-205/survival-arena
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGin-205&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TGin-205&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGin-205&theme=dark"/>
 </p>
 
 ---
 
-## 🚀 Currently Learning
+## ☠ Currently Mastering
 
-- Multiplayer (Photon / Mirror)
-- Game Optimization
-- Design Patterns in Game Architecture
 - Advanced AI Behavior
+- Game Architecture Patterns
+- Multiplayer Systems
+- Optimization Techniques
 
 ---
 
 ## 📫 Contact
 
-📧 Email: yourmail@gmail.com  
-🎮 itch.io: (add later)  
-💼 Facebook: [(Lê Đại Thành)](https://www.facebook.com/dev.rum.205)
+📧 yourmail@gmail.com  
+🎮 itch.io (coming soon)
 
 ---
 
 <p align="center">
-  ⚡ "Games are not just code. They are experiences."
+  💀 Code. Break. Fix. Repeat.
 </p>
