@@ -63,4 +63,4 @@ Wave-based survival game.
 
 ## 📫 Contact
 - Email: yourmail@gmail.com
-- LinkedIn: (add later)
+- Facebook: [(add later)](https://www.facebook.com/dev.rum.205)
