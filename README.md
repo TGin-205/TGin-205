@@ -1,101 +1,57 @@
-<h1 align="center">💀 TGin-205</h1>
-<h3 align="center">Dark Game Developer | Unity Engineer</h3>
+# TGin-205
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unity-111111?style=for-the-badge&logo=unity"/>
-  <img src="https://img.shields.io/badge/Code-C%23-222222?style=for-the-badge&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/Mode-Dark-000000?style=for-the-badge"/>
-</p>
+Game Developer | Unity & C#
 
 ---
 
-## 🩸 Who Am I
-
-🎮 Game Developer in training  
-🧠 Obsessed with mechanics, systems & clean architecture  
-⚡ Building immersive gameplay experiences  
-🔥 Focused on mastering Unity & C#
-
-> “A game is not played. It is survived.”
+## About Me
+I am an IT student focused on game development.  
+I build 2D and 3D games using Unity and C#.  
+Currently improving my skills in game systems and clean architecture.
 
 ---
 
-## ⚔ Core Skills
+## Skills
 
-### 🎮 Game Systems
-- Player Controller Architecture
-- Enemy AI (State Machine)
-- Object Pooling
-- Physics & Collision
-- Damage & Health Systems
-- Wave Spawn Logic
-
-### 💻 Programming
+**Programming**
 - C#
-- OOP Design
+- Object-Oriented Programming
 - Data Structures
-- Clean Code Principles
 
-### 🛠 Tools
-- Unity Engine
-- Git / GitHub
+**Game Development**
+- Unity 2D / 3D
+- Player Controller
+- Enemy AI (Basic State Machine)
+- Collision & Physics
+- Health & Damage Systems
+
+**Tools**
+- Git & GitHub
 - Visual Studio
-- Basic Blender
 
 ---
 
-## 🧟 Featured Projects
+## Projects
 
-### 🟢 Jelly Jump – 2D Survival Platformer
-A fast-paced platform game where survival depends on timing and precision.
+### Jelly Jump (2D Platformer)
+- Player movement and jump mechanics  
+- Collision detection  
+- Score system  
+- Basic enemy AI  
 
-✔ Smooth physics movement  
-✔ Collision detection  
-✔ Scoring system  
-✔ Enemy patrol AI  
-✔ Increasing difficulty  
-
-🔗 https://github.com/TGin-205/jelly-jump
-
----
-
-### 🔴 Survival Arena – Dark Top-down Shooter
-Endless waves. No mercy.
-
-✔ Enemy spawn system  
-✔ HP & damage calculation  
-✔ Weapon upgrades  
-✔ Restart & state management  
-
-🔗 https://github.com/TGin-205/survival-arena
+### Survival Arena (Top-down Shooter)
+- Enemy wave spawn system  
+- Health & damage logic  
+- Game state management  
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TGin-205&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGin-205&theme=dark"/>
-</p>
+## Currently Learning
+- Design Patterns in Game Development
+- Optimization techniques
+- Multiplayer basics
 
 ---
 
-## ☠ Currently Mastering
-
-- Advanced AI Behavior
-- Game Architecture Patterns
-- Multiplayer Systems
-- Optimization Techniques
-
----
-
-## 📫 Contact
-
-📧 yourmail@gmail.com  
-🎮 itch.io (coming soon)
-
----
-
-<p align="center">
-  💀 Code. Break. Fix. Repeat.
-</p>
+## Contact
+Email: yourmail@gmail.com
